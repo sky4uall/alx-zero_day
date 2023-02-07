@@ -1,2 +1,3 @@
+git pull
 git fetch origin
 git merge origin/update_script
